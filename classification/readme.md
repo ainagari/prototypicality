@@ -4,7 +4,7 @@
 This directory contains the code to run the classification and fine-tuning experiments described in Sections 5 and 6 of the paper.
 
 
-### Embedding-based classification
+## Embedding-based classification
 
 To run the embedding-based classification experiments (Section 5.2) with BERT embeddings, you first need to extract BERT representations with the following command:
 
@@ -28,19 +28,19 @@ To run the baselines:
 `python cv_classif_mcrae.py --baseline [majority|allproto]`
 
 
-### Fine-tuning on HVD
+## Fine-tuning on HVD
 
 To run the fine-tuning experiments on HVD (Section 5.3), you can use the command:
 
-sh run_HVD_finetuning.sh
+`sh run_HVD_finetuning.sh`
 
 This will run the BERT-CLS and BERT-TOK cross-validation experiments that gave the best results in the paper. Results, predictions and models will be saved in `FTresults_HVD/`.
 
-### Fine-tuning on Addone
+## Fine-tuning on Addone
 
 To fine-tune BERT on the Addone dataset, run:
 
-sh run_Addone_finetuning.sh
+`sh run_Addone_finetuning.sh`
 
 Similarly to the command for HVD, this will run the BERT-CLS and BERT-TOK experiments that gave the best results in the paper.
 
@@ -48,34 +48,3 @@ You do not need to download any additional data. The Addone dataset was download
 
 
 
-
-
-# ALL Dolphins are intelligent 
-
-This repository contains data and code for the paper:
-
-Marianna Apidianaki and Aina Garí Soler (2021). ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality. To appear in _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP_, Punta Cana, Dominican Republic and Online, November, 11.
-
-The directories contain the scripts and data necessary to run:
-
-* **masking/**: the LM masking experiments (Section 4 of the paper).
-* The **classification/** the classification and fine-tuning experiments (Sections 5 and 6).
-
-Please visit a directory to find a more detailed readme.
-
-
-### Citation
-
-If you use the code in this repository, please cite our paper:
-```
-@inproceedings{apidianaki-gari-soler-2021-dolphins,
-    title = "Transcoding Compositionally: Using Attention to Find More Generalizable Solutions",
-    author = "Apidianaki, Marianna  and
-      Gar{\'i } Soler, Aina",
-    booktitle = "Proceedings of the 2021 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP",
-    month = nov,
-    year = "2021",
-    address = "Punta Cana, Dominican Republic",
-    publisher = "Association for Computational Linguistics",
-}
-```

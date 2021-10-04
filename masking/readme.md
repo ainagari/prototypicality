@@ -2,6 +2,9 @@
 
 ## DATA and MODEL PREDICTIONS for Cloze task experiments
 
+### MANUAL ANNOTATION
+
+See the contents of `manual_annotation/` for more details.
 
 ### QUANTIFIER MASKING
 

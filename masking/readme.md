@@ -5,14 +5,14 @@
 
 ### QUANTIFIER MASKING
 
-#### QUERIES
+#### Queries
 
 The folder `cloze_queries/quantifiers/queries` contains two files: `SetA.mask.queries` and `SetB.mask.queries`. 
 
 The files contain the cloze statements used to query BERT for the quantifiers of the nouns in Set A and Set B. The composition of each set is described in detail in the paper.
 
 
-#### PREDICTIONS
+#### Predictions
 
 The folder `cloze_queries/quantifiers/predictions/bert-base` and `bert-large` contain four files each. 
 
@@ -23,7 +23,7 @@ The folder `cloze_queries/quantifiers/predictions/bert-base` and `bert-large` co
 
 ### PROPERTY MASKING
 
-#### QUERIES
+#### Queries
 
 The folder `cloze_queries/properties/queries` contains the cloze statements used to query BERT for noun properties. 
 
@@ -40,7 +40,7 @@ The name of the files denotes the singular or plural cloze task template used to
 e.g., queries in `plural_usually.prop` are in plural form and contain the adverb "usually" (_veils are usually [MASK]._).
 
 
-#### PREDICTIONS
+#### Predictions
 
 (in `cloze_queries/properties/predictions/bert-base` and `bert-large`)
 
@@ -82,7 +82,7 @@ Usage examples
 - Model predictions for each type of query will be saved in the files named: `[PATTERN].[MODEL NAME].prop` 
 There are 11 queries and 11 output files, one for each query.
 
-##### To evaluate the predictions of masked properties --
+##### To evaluate the predictions of masked properties
 
 `python bert_as_mlm.py --input_fileOrDir cloze_queries/properties/predictions --eval_properties --gold McRae_properties.gold`
 

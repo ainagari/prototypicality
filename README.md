@@ -17,7 +17,7 @@ Please visit a directory to find a more detailed readme.
 If you use the code in this repository, please cite our paper:
 ```
 @inproceedings{apidianaki-gari-soler-2021-dolphins,
-    title = "Transcoding Compositionally: Using Attention to Find More Generalizable Solutions",
+    title = "ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality",
     author = "Apidianaki, Marianna  and
       Gar{\'i } Soler, Aina",
     booktitle = "Proceedings of the 2021 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP",

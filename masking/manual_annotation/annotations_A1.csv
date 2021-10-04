@@ -1,0 +1,1018 @@
+NOUN,QUERY,PREDICTIONS,,,,,,,,,
+motorcycle,most motorcycles are [MASK].,electric,motorcycles,small,smaller,manual,hybrids,lightweight,amphibious,quieter,sold
+,,1,0,0,0,0,0,0,0,0,0
+cougar,most cougars are [MASK].,nocturnal,male,female,white,tame,aggressive,silent,solitary,territorial,shy
+,,0,1,1,0,1,1,0,0,0,0
+wand,most wands are [MASK].,short,small,portable,sharp,bladed,invisible,electric,used,heavy,wooden
+,,0,0,1,1,1,0,0,0,0,1
+butterfly,most butterflies are [MASK].,nocturnal,white,black,solitary,brown,green,small,rare,large,blue
+,,0,1,1,0,1,1,0,0,0,1
+couch,most couches are [MASK].,leather,comfortable,empty,uncomfortable,white,green,occupied,beige,soft,black
+,,1,1,0,1,1,1,0,1,1,1
+bread,bread is [MASK].,good,cold,baked,made,hot,delicious,cooked,bread,free,warm
+,,0,0,1,0,1,1,1,0,0,1
+yam,most yams are [MASK].,edible,green,poisonous,eaten,black,yellow,white,vegetarian,toxic,bitter
+,,1,0,1,0,0,1,1,0,0,0
+inn,most inns are [MASK].,closed,small,free,open,private,smaller,public,empty,unmanned,nearby
+,,0,0,0,0,1,0,1,0,1,0
+rice,rice is [MASK].,grown,available,good,eaten,produced,used,common,cultivated,consumed,recommended
+,,0,0,0,0,0,0,0,0,0,0
+saucer,most saucers are [MASK].,spherical,smaller,small,portable,hollow,large,larger,empty,white,plastic
+,,0,0,1,1,1,0,0,0,1,1
+porcupine,most porcupines are [MASK].,nocturnal,solitary,small,large,white,smaller,terrestrial,black,territorial,blind
+,,1,0,1,0,0,0,0,1,0,0
+spear,most spears are [MASK].,curved,wooden,short,long,bladed,hollow,small,sharp,poisonous,broken
+,,0,1,1,1,1,0,0,1,0,0
+cellar,most cellars are [MASK].,underground,empty,vaulted,dry,flooded,full,private,open,covered,abandoned
+,,1,1,1,1,0,1,1,0,0,0
+rope,most ropes are [MASK].,used,thick,lightweight,heavy,thin,nylon,flexible,long,tight,short
+,,0,1,0,0,1,1,1,1,0,1
+box,most boxes are [MASK].,empty,closed,wooden,black,open,flat,white,hollow,plastic,small
+,,1,0,1,1,0,0,1,1,1,0
+apple,most apples are [MASK].,edible,green,yellow,white,red,black,poisonous,ripe,sour,eaten
+,,1,1,1,0,1,0,1,1,1,0
+banjo,most banjos are [MASK].,bowed,homemade,plucked,acoustic,tuned,electric,strung,used,wooden,banjo
+,,1,0,1,1,0,1,0,0,1,0
+parakeet,most parakeets are [MASK].,nocturnal,solitary,white,small,green,shy,blue,black,territorial,smaller
+,,0,0,0,0,1,0,1,0,0,0
+ambulance,most ambulances are [MASK].,private,unmarked,free,available,covered,motorized,staffed,mobile,volunteer,red
+,,1,0,0,0,0,0,1,0,0,0
+socks,most socks are [MASK].,white,black,optional,worn,red,green,blue,brown,cotton,yellow
+,,1,1,0,0,1,1,1,1,1,1
+dandelion,most dandelions are [MASK].,edible,poisonous,yellow,white,green,toxic,black,purple,bisexual,red
+,,0,0,1,1,1,0,0,0,0,0
+taxi,most taxis are [MASK].,private,taxis,local,small,yellow,free,taxi,registered,automated,black
+,,1,0,1,0,1,0,0,0,0,1
+jacket,most jackets are [MASK].,black,white,lightweight,optional,blue,leather,green,tweed,brown,comfortable
+,,1,1,1,0,1,1,1,1,1,1
+wheelbarrow,most wheelbarrows are [MASK].,portable,powered,manual,hollow,wooden,smaller,heavy,used,wheels,wheeled
+,,1,0,0,0,1,0,1,0,0,1
+crown,most crowns are [MASK].,ornamental,plastic,white,gold,silver,wooden,flat,decorative,black,similar
+,,1,1,1,1,1,1,0,1,1,0
+peacock,most peacocks are [MASK].,white,black,nocturnal,male,female,blue,tame,brown,solitary,green
+,,0,0,0,1,1,1,1,0,0,1
+mittens,most mittens are [MASK].,white,flexible,black,edible,elastic,deciduous,functional,flat,short,soft
+,,1,0,1,0,1,0,0,0,0,1
+bow,most bows are [MASK].,curved,hollow,wooden,straight,bowed,longer,sharp,adjustable,short,small
+,,1,0,1,0,0,0,0,1,0,0
+buzzard,most buzzards are [MASK].,nocturnal,solitary,territorial,white,shy,large,small,migratory,black,males
+,,0,0,0,0,0,1,0,1,1,0
+piano,most pianos are [MASK].,portable,electric,upright,mechanical,manual,homemade,tuned,antique,bowed,analog
+,,1,1,1,1,0,0,1,1,0,0
+tack,most tacks are [MASK].,metal,wooden,steel,plastic,adjustable,sharp,flat,brass,black,used
+,,1,1,1,1,0,1,0,1,1,0
+scissors,most scissors are [MASK].,sharp,used,scissors,flat,plastic,flexible,curved,small,adjustable,hollow
+,,1,0,0,0,1,0,1,0,0,0
+bra,most bras are [MASK].,optional,elastic,plastic,white,lightweight,leather,lace,black,flexible,synthetic
+,,0,1,0,1,0,1,1,1,1,1
+drill,most drills are [MASK].,timed,simple,optional,short,mandatory,competitive,similar,required,routine,drills
+,,0,0,0,0,0,0,0,0,0,0
+veil,most veils are [MASK].,white,black,opaque,translucent,optional,red,transparent,thin,dark,yellow
+,,1,1,1,1,0,1,1,1,1,1
+cannon,most cannons are [MASK].,obsolete,heavy,smaller,portable,automatic,small,lightweight,mobile,unarmed,wooden
+,,0,1,0,0,0,0,0,0,0,1
+mink,most minks are [MASK].,white,nocturnal,black,vegetarian,solitary,edible,polled,brown,small,gray
+,,1,0,1,0,0,0,0,1,0,1
+raft,most rafts are [MASK].,wooden,small,smaller,flat,used,amphibious,hollow,homemade,large,built
+,,1,0,0,1,0,0,0,0,0,0
+pearl,most pearls are [MASK].,white,yellow,edible,blue,green,black,pink,poisonous,hard,small
+,,1,1,0,1,1,1,1,0,1,1
+saddle,most saddles are [MASK].,leather,adjustable,lightweight,wooden,flat,used,optional,covered,black,synthetic
+,,1,1,1,1,0,0,0,0,1,1
+owl,most owls are [MASK].,nocturnal,solitary,silent,terrestrial,blind,small,large,territorial,predatory,smaller
+,,1,0,1,0,0,1,1,0,1,0
+bowl,most bowls are [MASK].,wooden,hollow,small,large,empty,flat,rectangular,black,cylindrical,spherical
+,,1,1,1,1,1,0,1,1,1,1
+ox,most oxen are [MASK].,white,polled,black,used,horned,eaten,dead,red,wooden,slaughtered
+,,1,1,1,0,1,0,0,1,0,0
+hut,most huts are [MASK].,wooden,abandoned,covered,permanent,seasonal,small,temporary,destroyed,ruined,rented
+,,1,0,0,1,1,1,1,0,0,0
+crow,most crows are [MASK].,nocturnal,white,male,solitary,tame,female,shy,black,harmless,territorial
+,,1,0,1,0,1,1,0,1,0,1
+camel,most camels are [MASK].,polled,white,black,vegetarian,horned,brown,small,barren,fat,rare
+,,1,1,1,1,0,1,0,0,0,0
+turkey,most turkeys are [MASK].,white,black,vegetarian,polled,edible,gray,green,brown,small,grey
+,,1,1,1,0,1,1,1,1,0,1
+pencil,most pencils are [MASK].,black,plastic,sharp,flat,hollow,white,used,wooden,red,thin
+,,1,1,1,0,0,1,0,1,1,1
+tractor,most tractors are [MASK].,tractors,electric,tracked,used,agricultural,diesel,trailers,amphibious,towed,hybrids
+,,0,1,0,0,1,1,0,0,0,0
+perch,most perches are [MASK].,open,permanent,small,protected,artificial,shallow,covered,hollow,grass,edible
+,,0,0,0,0,0,0,0,0,0,1
+axe,most axes are [MASK].,hollow,curved,wooden,small,large,short,sharp,smaller,flat,broken
+,,0,1,1,0,0,0,1,0,0,0
+honeydew,most honeydews are [MASK].,edible,nocturnal,green,poisonous,bisexual,solitary,white,yellow,sterile,similar
+,,1,0,1,0,0,0,1,1,0,0
+chimp,most chimps are [MASK].,nocturnal,solitary,vegetarian,male,blind,shy,female,males,small,females
+,,0,0,1,1,0,0,1,0,0,0
+bottle,most bottles are [MASK].,empty,plastic,dry,filled,used,sealed,white,glass,blue,black
+,,0,1,0,0,0,0,0,1,0,0
+ring,most rings are [MASK].,flat,round,hollow,small,black,closed,circular,white,thin,large
+,,0,1,1,0,0,0,1,0,1,0
+flute,most flutes are [MASK].,bowed,homemade,wooden,plucked,bamboo,conical,hollow,acoustic,small,cylindrical
+,,0,0,1,0,1,0,1,1,0,1
+skunk,most skunks are [MASK].,nocturnal,solitary,harmless,shy,vegetarian,white,small,blind,silent,terrestrial
+,,0,0,1,0,0,1,0,0,0,0
+bomb,most bombs are [MASK].,explosive,homemade,harmless,small,ineffective,empty,portable,plastic,heavy,useless
+,,1,1,0,0,0,0,0,0,0,0
+ant,most ants are [MASK].,nocturnal,solitary,colonial,parasitic,territorial,social,terrestrial,large,brown,amphibious
+,,0,0,1,0,0,1,0,0,1,0
+hornet,most hornets are [MASK].,nocturnal,black,female,solitary,white,harmless,brown,male,large,females
+,,0,1,1,0,0,0,1,1,0,0
+pipe,most pipes are [MASK].,wooden,hollow,bowed,metal,homemade,acoustic,brass,bamboo,tuned,black
+,,1,1,0,1,0,0,1,1,0,0
+stove,most stoves are [MASK].,portable,electric,gas,electrical,smaller,automatic,homemade,metal,automated,small
+,,1,1,1,0,0,1,0,1,0,0
+hose,most hoses are [MASK].,portable,used,flexible,short,longer,plastic,electric,black,threaded,long
+,,0,0,1,0,0,1,0,1,0,1
+celery,most celeries are [MASK].,edible,poisonous,white,yellow,green,black,hardy,red,purple,sterile
+,,1,0,1,0,1,0,0,0,0,0
+swan,most swans are [MASK].,white,black,male,blue,brown,female,grey,migratory,gray,red
+,,1,1,1,0,0,1,1,1,1,0
+gown,most gowns are [MASK].,white,black,expensive,blue,short,silk,red,comfortable,pretty,plain
+,,1,1,1,1,0,1,1,1,1,1
+rake,most rakes are [MASK].,flat,short,portable,adjustable,used,automatic,heavy,manual,lightweight,hollow
+,,1,0,1,1,0,0,0,1,0,0
+chandelier,most chandeliers are [MASK].,crystal,electric,brass,white,silver,decorative,tiffany,large,lit,gold
+,,1,1,1,0,1,1,0,1,0,1
+plum,most plums are [MASK].,edible,green,poisonous,white,black,yellow,red,purple,brown,small
+,,1,0,0,1,1,1,1,1,1,1
+pier,most piers are [MASK].,brick,concrete,granite,octagonal,stone,circular,arched,limestone,ornamental,wooden
+,,1,1,0,0,1,1,0,0,0,1
+panther,most panthers are [MASK].,territorial,dangerous,nocturnal,tame,vicious,weak,aggressive,unpredictable,fierce,harmless
+,,1,1,0,1,0,0,1,1,1,0
+mushroom,most mushrooms are [MASK].,edible,poisonous,toxic,green,brown,parasitic,eaten,white,microscopic,small
+,,1,1,1,0,1,0,0,1,0,1
+leopard,most leopards are [MASK].,nocturnal,solitary,white,female,male,black,smaller,tame,larger,gray
+,,0,0,0,1,1,1,0,1,0,0
+sardine,most sardines are [MASK].,edible,vegetarian,poisonous,white,toxic,black,green,yellow,fried,fresh
+,,1,0,0,0,0,0,0,0,1,1
+banana,most bananas are [MASK].,edible,green,eaten,poisonous,ripe,harvested,black,consumed,yellow,exported
+,,1,1,0,0,1,0,0,0,1,0
+card,most cards are [MASK].,rare,black,unique,blank,trump,discarded,numbered,random,white,identical
+,,0,0,0,1,0,0,1,0,1,0
+worm,most worms are [MASK].,edible,parasitic,poisonous,harmless,small,green,nocturnal,white,predatory,amphibious
+,,0,0,0,0,1,1,0,1,0,0
+corn,most corns are [MASK].,green,edible,white,yellow,dry,sweet,black,red,roasted,harvested
+,,1,1,0,1,0,1,0,0,0,0
+rat,most rats are [MASK].,nocturnal,solitary,sterile,white,harmless,vegetarian,poisonous,male,blind,female
+,,0,0,0,0,0,0,0,1,1,1
+grapefruit,most grapefruits are [MASK].,edible,green,white,poisonous,yellow,black,red,sweet,dry,sour
+,,1,0,0,0,1,0,1,0,0,1
+goose,most geese are [MASK].,white,black,migratory,grey,gray,male,brown,female,polled,vegetarian
+,,1,1,1,1,1,1,1,1,0,1
+trolley,most trolleys are [MASK].,electric,articulated,automated,unmarked,hybrids,yellow,diesel,green,hybrid,older
+,,1,1,0,0,0,0,1,0,0,0
+chipmunk,most chipmunks are [MASK].,male,white,nocturnal,black,female,green,small,blue,males,silent
+,,1,1,0,1,1,0,1,0,1,0
+pot,most pots are [MASK].,clay,white,black,empty,hollow,glazed,decorated,wooden,small,painted
+,,1,1,1,1,1,1,1,1,1,1
+buffalo,most buffalos are [MASK].,large,horned,small,white,black,polled,wild,tame,vegetarian,larger
+,,1,1,0,0,1,1,1,1,1,0
+asparagus,most asparagi are [MASK].,vegetarian,nocturnal,white,solitary,edible,green,black,small,horned,polled
+,,0,0,1,0,1,1,0,0,0,0
+machete,most machetes are [MASK].,bladed,sharp,short,homemade,deadly,used,lethal,wooden,curved,small
+,,1,1,0,0,0,0,0,1,1,0
+cow,most cows are [MASK].,white,polled,vegetarian,horned,milk,black,female,cows,male,pregnant
+,,1,0,0,0,1,1,1,0,1,0
+elk,most elk are [MASK].,nocturnal,polled,tame,solitary,white,female,vegetarian,male,gray,horned
+,,0,0,1,0,1,1,1,1,1,1
+tangerine,most tangerines are [MASK].,edible,white,poisonous,yellow,black,green,red,purple,bisexual,sterile
+,,1,0,0,1,0,0,1,0,0,0
+peg,most pegs are [MASK].,adjustable,wooden,flat,hollow,fixed,metal,threaded,plastic,used,steel
+,,,,,,,,,,,
+fawn,most fawns are [MASK].,white,black,polled,brown,grey,gray,yellow,smaller,female,blue
+,,,,,,,,,,,
+sailboat,most sailboats are [MASK].,amphibious,small,smaller,aluminum,powered,motorized,wooden,fast,electric,larger
+,,,,,,,,,,,
+orange,most oranges are [MASK].,yellow,edible,poisonous,green,black,red,white,orange,sour,bitter
+,,,,,,,,,,,
+pumpkin,most pumpkins are [MASK].,edible,green,white,poisonous,black,red,hollow,yellow,spherical,eaten
+,,,,,,,,,,,
+lime,most limes are [MASK].,edible,poisonous,green,yellow,black,white,toxic,bitter,acidic,sour
+,,,,,,,,,,,
+cucumber,most cucumbers are [MASK].,edible,poisonous,green,white,black,eaten,vegetarian,toxic,yellow,similar
+,,,,,,,,,,,
+lemon,most lemons are [MASK].,poisonous,edible,yellow,bitter,green,sour,white,black,red,sweet
+,,,,,,,,,,,
+belt,most belts are [MASK].,leather,short,flexible,adjustable,black,thin,metal,closed,white,optional
+,,,,,,,,,,,
+shrimp,most shrimps are [MASK].,edible,poisonous,harmless,small,green,vegetarian,white,toxic,parasitic,black
+,,,,,,,,,,,
+grape,most grapes are [MASK].,white,red,exported,harvested,grown,cultivated,yellow,edible,black,dried
+,,,,,,,,,,,
+dolphin,most dolphins are [MASK].,male,nocturnal,white,small,tame,large,shy,female,solitary,harmless
+,,,,,,,,,,,
+tuna,most tuna are [MASK].,edible,vegetarian,poisonous,white,larger,toxic,large,small,black,harmless
+,,,,,,,,,,,
+budgie,most budgies are [MASK].,white,green,edible,black,yellow,red,blue,small,orange,vegetarian
+,,,,,,,,,,,
+rhubarb,most rhubarbs are [MASK].,edible,poisonous,green,yellow,white,black,aromatic,toxic,bitter,eaten
+,,,,,,,,,,,
+minnow,most minnows are [MASK].,small,edible,nocturnal,smaller,harmless,black,white,larger,brown,green
+,,,,,,,,,,,
+cigarette,most cigarettes are [MASK].,stale,lit,smoked,black,homemade,used,dry,expensive,banned,green
+,,,,,,,,,,,
+airplane,most airplanes are [MASK].,small,obsolete,smaller,homemade,unmanned,electric,amphibious,used,old,metal
+,,,,,,,,,,,
+raisin,most raisins are [MASK].,edible,white,yellow,green,sour,bitter,poisonous,sweet,black,dried
+,,,,,,,,,,,
+pickle,most pickles are [MASK].,spicy,vegetarian,edible,fried,green,sweet,white,poisonous,bitter,homemade
+,,,,,,,,,,,
+cherry,most cherries are [MASK].,edible,black,poisonous,white,yellow,green,red,ripe,purple,orange
+,,,,,,,,,,,
+emerald,most emeralds are [MASK].,green,yellow,black,blue,white,rare,red,pink,purple,brown
+,,,,,,,,,,,
+ruler,most rulers are [MASK].,women,male,males,female,children,men,females,dead,christians,religious
+,,,,,,,,,,,
+donkey,most donkeys are [MASK].,polled,white,vegetarian,black,horned,male,lame,small,female,grey
+,,,,,,,,,,,
+barn,most barns are [MASK].,abandoned,small,covered,permanent,older,listed,brick,wooden,large,open
+,,,,,,,,,,,
+dog,most dogs are [MASK].,polled,nocturnal,silent,tame,aggressive,small,intelligent,lazy,loyal,white
+,,,,,,,,,,,
+salamander,most salamanders are [MASK].,nocturnal,terrestrial,aquatic,small,solitary,predatory,large,harmless,smaller,poisonous
+,,,,,,,,,,,
+sheep,most sheep are [MASK].,polled,white,horned,black,vegetarian,domestic,grey,brown,gray,male
+,,,,,,,,,,,
+bus,most buses are [MASK].,private,local,free,electric,yellow,diesel,available,taxis,automated,seasonal
+,,,,,,,,,,,
+boat,most boats are [MASK].,small,smaller,wooden,amphibious,fast,motorized,homemade,fishing,electric,larger
+,,,,,,,,,,,
+sleigh,most sleighs are [MASK].,covered,portable,wooden,open,closed,lightweight,used,small,electric,motorized
+,,,,,,,,,,,
+hare,most hares are [MASK].,nocturnal,small,smaller,black,large,larger,white,solitary,polled,brown
+,,,,,,,,,,,
+missile,most missiles are [MASK].,smaller,mobile,silent,small,unarmed,nuclear,portable,lightweight,guided,unmanned
+,,,,,,,,,,,
+gorilla,most gorillas are [MASK].,nocturnal,solitary,shy,tame,vegetarian,mute,male,large,blind,small
+,,,,,,,,,,,
+key,most keys are [MASK].,missing,manual,used,simple,mechanical,black,flat,uncommon,open,small
+,,,,,,,,,,,
+bat,most bats are [MASK].,nocturnal,solitary,terrestrial,territorial,silent,small,large,predatory,blind,predators
+,,,,,,,,,,,
+gopher,most gophers are [MASK].,nocturnal,white,males,male,small,female,smaller,black,gray,green
+,,,,,,,,,,,
+pajamas,most pajamas are [MASK].,comfortable,optional,uncomfortable,worn,white,expensive,lightweight,soft,casual,used
+,,,,,,,,,,,
+yacht,most yachts are [MASK].,small,smaller,fast,larger,amphibious,white,sailing,large,identical,wooden
+,,,,,,,,,,,
+shotgun,most shotguns are [MASK].,automatic,obsolete,lightweight,smaller,loaded,similar,longer,small,pistols,homemade
+,,,,,,,,,,,
+tie,most ties are [MASK].,broken,dead,eliminated,drawn,cut,fatal,dropped,severed,tied,blood
+,,,,,,,,,,,
+tomato,most tomatoes are [MASK].,green,edible,yellow,red,white,fresh,sour,ripe,poisonous,vegetarian
+,,,,,,,,,,,
+eel,most eels are [MASK].,nocturnal,harmless,small,poisonous,predatory,edible,parasitic,aquatic,large,amphibious
+,,,,,,,,,,,
+nightgown,most nightgowns are [MASK].,white,black,optional,silk,lightweight,cotton,loose,blue,comfortable,red
+,,,,,,,,,,,
+parsley,most parsleys are [MASK].,edible,poisonous,green,white,yellow,aromatic,black,toxic,bitter,red
+,,,,,,,,,,,
+cap,most caps are [MASK].,red,black,worn,yellow,white,retired,green,blue,brown,orange
+,,,,,,,,,,,
+stork,most storks are [MASK].,white,black,nocturnal,brown,migratory,gray,male,female,grey,solitary
+,,,,,,,,,,,
+chicken,most chickens are [MASK].,white,vegetarian,black,sterile,male,healthy,edible,polled,small,meat
+,,,,,,,,,,,
+deer,most deer are [MASK].,nocturnal,solitary,tame,common,polled,rare,wild,migratory,small,vegetarian
+,,,,,,,,,,,
+paintbrush,most paintbrushes are [MASK].,plastic,portable,used,metal,black,flexible,flat,small,curved,wooden
+,,,,,,,,,,,
+beehive,most beehives are [MASK].,small,indoors,edible,underground,large,seasonal,sterile,closed,nocturnal,artificial
+,,,,,,,,,,,
+pheasant,most pheasants are [MASK].,nocturnal,small,black,edible,vegetarian,smaller,poisonous,white,polled,large
+,,,,,,,,,,,
+birch,most birches are [MASK].,deciduous,evergreen,poisonous,edible,rare,barren,common,dwarf,dead,hollow
+,,,,,,,,,,,
+building,most buildings are [MASK].,residential,listed,brick,plastered,wooden,stone,residences,commercial,houses,white
+,,,,,,,,,,,
+armour,most armours are [MASK].,lightweight,armoured,metal,wooden,black,steel,bronze,heavy,metallic,armored
+,,,,,,,,,,,
+rattlesnake,most rattlesnakes are [MASK].,nocturnal,poisonous,smaller,harmless,small,larger,large,solitary,tame,black
+,,,,,,,,,,,
+fence,most fences are [MASK].,electrified,electric,wooden,broken,permanent,low,high,tall,modern,locked
+,,,,,,,,,,,
+clam,most clams are [MASK].,edible,poisonous,small,green,large,black,white,toxic,smaller,yellow
+,,,,,,,,,,,
+squirrel,most squirrels are [MASK].,nocturnal,solitary,shy,small,edible,harmless,gray,white,poisonous,female
+,,,,,,,,,,,
+apron,most aprons are [MASK].,white,black,optional,red,yellow,blue,green,leather,orange,worn
+,,,,,,,,,,,
+subway,most subways are [MASK].,underground,elevated,electrified,free,electric,closed,green,unused,subway,tunnels
+,,,,,,,,,,,
+whip,most whips are [MASK].,short,sharp,used,curved,flexible,electric,homemade,adjustable,broken,small
+,,,,,,,,,,,
+coat,most coats are [MASK].,black,dark,white,brown,gray,long,short,thick,grey,longer
+,,,,,,,,,,,
+potato,most potatoes are [MASK].,edible,green,eaten,white,harvested,fresh,exported,roasted,yellow,red
+,,,,,,,,,,,
+cape,most capes are [MASK].,white,black,red,blue,yellow,green,short,brown,long,shorter
+,,,,,,,,,,,
+tuba,most tubas are [MASK].,homemade,electric,brass,bowed,manual,smaller,portable,tuned,used,hollow
+,,,,,,,,,,,
+blueberry,most blueberries are [MASK].,edible,poisonous,black,green,yellow,white,wild,eaten,red,ripe
+,,,,,,,,,,,
+dagger,most daggers are [MASK].,silver,sharp,short,wooden,small,curved,longer,metal,long,smaller
+,,,,,,,,,,,
+seal,most seals are [MASK].,black,white,brown,nocturnal,gray,large,smaller,female,green,male
+,,,,,,,,,,,
+cup,most cups are [MASK].,empty,plastic,filled,black,full,used,white,small,blue,wooden
+,,,,,,,,,,,
+accordion,most accordions are [MASK].,bowed,homemade,portable,wooden,manual,plucked,acoustic,electric,hollow,used
+,,,,,,,,,,,
+bear,most bears are [MASK].,nocturnal,solitary,tame,white,harmless,female,male,large,shy,smaller
+,,,,,,,,,,,
+lettuce,most lettuces are [MASK].,edible,green,white,yellow,black,red,fresh,purple,dry,vegetarian
+,,,,,,,,,,,
+umbrella,most umbrellas are [MASK].,portable,lightweight,plastic,covered,black,adjustable,electric,metal,green,used
+,,,,,,,,,,,
+bayonet,most bayonets are [MASK].,fixed,barbed,adjustable,steel,mounted,sharp,pointed,portable,wooden,used
+,,,,,,,,,,,
+rabbit,most rabbits are [MASK].,nocturnal,edible,white,poisonous,black,harmless,vegetarian,brown,solitary,small
+,,,,,,,,,,,
+strawberry,most strawberries are [MASK].,edible,poisonous,white,black,green,yellow,sour,red,eaten,ripe
+,,,,,,,,,,,
+razor,most razors are [MASK].,sharp,thin,expensive,flat,plastic,small,short,flexible,dull,curved
+,,,,,,,,,,,
+vest,most vests are [MASK].,optional,lightweight,black,white,green,blue,leather,red,worn,orange
+,,,,,,,,,,,
+cathedral,most cathedrals are [MASK].,smaller,catholic,small,gothic,wooden,baroque,domed,older,octagonal,rectangular
+,,,,,,,,,,,
+vulture,most vultures are [MASK].,nocturnal,black,solitary,white,small,smaller,large,larger,common,migratory
+,,,,,,,,,,,
+flea,most fleas are [MASK].,nocturnal,parasitic,harmless,predatory,poisonous,solitary,parasites,sterile,edible,toxic
+,,,,,,,,,,,
+spade,most spades are [MASK].,black,flat,hollow,white,wooden,short,green,legal,used,small
+,,,,,,,,,,,
+peach,most peaches are [MASK].,edible,green,poisonous,white,yellow,sour,black,sweet,ripe,red
+,,,,,,,,,,,
+chickadee,most chickadees are [MASK].,white,nocturnal,vegetarian,small,black,shy,males,male,female,green
+,,,,,,,,,,,
+tank,most tanks are [MASK].,armoured,armored,amphibious,obsolete,mobile,large,tracked,unmanned,smaller,heavy
+,,,,,,,,,,,
+catapult,most catapults are [MASK].,portable,mobile,powered,smaller,fixed,obsolete,wooden,small,handheld,lightweight
+,,,,,,,,,,,
+gate,most gates are [MASK].,closed,locked,open,automatic,covered,unmanned,automated,sealed,manual,wooden
+,,,,,,,,,,,
+octopus,most octopuses are [MASK].,small,edible,nocturnal,poisonous,green,large,peaceful,parasitic,predators,white
+,,,,,,,,,,,
+olive,most olives are [MASK].,green,edible,red,black,eaten,consumed,white,wild,yellow,cultivated
+,,,,,,,,,,,
+bin,most bins are [MASK].,empty,closed,open,covered,sealed,small,locked,large,full,filled
+,,,,,,,,,,,
+rifle,most rifles are [MASK].,automatic,obsolete,small,smaller,lightweight,longer,loaded,short,older,pistols
+,,,,,,,,,,,
+onions,most onions are [MASK].,green,edible,white,red,yellow,black,fried,poisonous,cooked,vegetarian
+,,,,,,,,,,,
+carpet,most carpets are [MASK].,woven,green,red,white,black,exported,blue,imported,colored,coloured
+,,,,,,,,,,,
+barrel,most barrels are [MASK].,empty,wooden,hollow,black,used,steel,large,small,metal,longer
+,,,,,,,,,,,
+shell,most shells are [MASK].,white,small,smooth,black,transparent,translucent,flat,hollow,brown,edible
+,,,,,,,,,,,
+necklace,most necklaces are [MASK].,gold,silver,expensive,white,thin,plastic,small,simple,pearls,decorative
+,,,,,,,,,,,
+pyramid,most pyramids are [MASK].,circular,octagonal,round,square,conical,cylindrical,rectangular,small,tall,smaller
+,,,,,,,,,,,
+cottage,most cottages are [MASK].,small,rented,inhabited,older,abandoned,smaller,wooden,detached,listed,uninhabited
+,,,,,,,,,,,
+football,football is [MASK].,not,popular,important,fun,optional,good,boring,possible,allowed,dead
+,,,,,,,,,,,
+dresser,most dressers are [MASK].,wooden,empty,white,antique,closed,small,antiques,black,wood,metal
+,,,,,,,,,,,
+blackbird,most blackbirds are [MASK].,nocturnal,solitary,migratory,territorial,white,shy,black,resident,male,silent
+,,,,,,,,,,,
+cheese,most cheese are [MASK].,white,vegetarian,homemade,exported,fresh,fried,yellow,red,sweet,smoked
+,,,,,,,,,,,
+goldfish,most goldfish are [MASK].,edible,white,poisonous,nocturnal,vegetarian,black,green,small,yellow,toxic
+,,,,,,,,,,,
+caribou,most caribous are [MASK].,nocturnal,vegetarian,white,migratory,solitary,black,large,small,polled,males
+,,,,,,,,,,,
+cat,most cats are [MASK].,nocturnal,solitary,tame,white,male,shy,silent,aggressive,small,territorial
+,,,,,,,,,,,
+shield,most shields are [MASK].,wooden,black,metal,heavy,armored,thick,hollow,small,green,armoured
+,,,,,,,,,,,
+spinach,most spinach are [MASK].,edible,poisonous,green,white,yellow,sterile,eaten,toxic,vegetarian,hardy
+,,,,,,,,,,,
+limousine,most limousines are [MASK].,white,black,convertible,unmarked,longer,electric,luxury,expensive,blue,smaller
+,,,,,,,,,,,
+pine,most pines are [MASK].,barren,tall,bald,evergreen,dead,bare,deciduous,small,old,rare
+,,,,,,,,,,,
+apartment,most apartments are [MASK].,rented,detached,furnished,private,small,attached,available,leased,apartments,sold
+,,,,,,,,,,,
+seaweed,most seaweeds are [MASK].,edible,poisonous,toxic,aquatic,marine,microscopic,green,parasitic,predators,white
+,,,,,,,,,,,
+seagull,most seagulls are [MASK].,nocturnal,migratory,white,solitary,black,male,blue,males,brown,territorial
+,,,,,,,,,,,
+crab,most crabs are [MASK].,edible,nocturnal,small,large,white,solitary,green,black,smaller,predatory
+,,,,,,,,,,,
+balloon,most balloons are [MASK].,spherical,empty,small,white,black,hollow,free,large,larger,inflated
+,,,,,,,,,,,
+nylons,most nylons are [MASK].,synthetic,elastic,flexible,nylon,lightweight,white,polymers,rigid,brittle,soft
+,,,,,,,,,,,
+scarf,most scarves are [MASK].,white,silk,black,lightweight,colorful,decorative,optional,elastic,woven,cotton
+,,,,,,,,,,,
+pistol,most pistols are [MASK].,automatic,lightweight,pistols,obsolete,small,loaded,short,used,smaller,locked
+,,,,,,,,,,,
+trombone,most trombones are [MASK].,electric,bowed,hollow,homemade,manual,used,valves,baritone,brass,tuned
+,,,,,,,,,,,
+broccoli,most broccoli are [MASK].,edible,green,white,poisonous,black,yellow,vegetarian,red,toxic,purple
+,,,,,,,,,,,
+train,most trains are [MASK].,seasonal,local,fast,slow,daily,freight,diesel,electric,overnight,sunday
+,,,,,,,,,,,
+mandarin,most mandarins are [MASK].,vegetarian,bilingual,white,male,black,female,chinese,muslim,males,women
+,,,,,,,,,,,
+beetle,most beetles are [MASK].,nocturnal,edible,black,poisonous,predatory,green,small,parasitic,white,large
+,,,,,,,,,,,
+microscope,most microscopes are [MASK].,portable,optical,expensive,digital,cylindrical,analog,inexpensive,flexible,transparent,electronic
+,,,,,,,,,,,
+pineapple,most pineapples are [MASK].,edible,green,poisonous,black,white,yellow,sweet,red,sour,ripe
+,,,,,,,,,,,
+revolver,most revolvers are [MASK].,automatic,obsolete,loaded,pistols,lightweight,used,similar,older,smaller,percussion
+,,,,,,,,,,,
+cabbage,most cabbages are [MASK].,edible,green,yellow,white,poisonous,eaten,red,black,wild,purple
+,,,,,,,,,,,
+blender,most blenders are [MASK].,portable,similar,automatic,flexible,plastic,used,dry,inexpensive,automated,electric
+,,,,,,,,,,,
+grenade,most grenades are [MASK].,explosive,portable,automatic,homemade,ineffective,empty,fragmentation,lightweight,used,handheld
+,,,,,,,,,,,
+caterpillar,most caterpillars are [MASK].,nocturnal,green,white,black,aquatic,solitary,female,females,terrestrial,brown
+,,,,,,,,,,,
+buckle,most buckles are [MASK].,metal,adjustable,threaded,plastic,flat,flexible,brass,metallic,steel,silver
+,,,,,,,,,,,
+snail,most snails are [MASK].,nocturnal,edible,poisonous,small,predatory,white,green,large,terrestrial,amphibious
+,,,,,,,,,,,
+moth,most moths are [MASK].,nocturnal,white,green,black,brown,rare,predatory,solitary,small,terrestrial
+,,,,,,,,,,,
+fox,most foxes are [MASK].,nocturnal,solitary,harmless,white,small,female,poisonous,blind,black,vegetarian
+,,,,,,,,,,,
+cloak,most cloaks are [MASK].,black,white,dark,green,red,expensive,blue,thick,brown,grey
+,,,,,,,,,,,
+napkin,most napkins are [MASK].,white,plastic,edible,used,paper,flat,black,dry,yellow,sticky
+,,,,,,,,,,,
+oriole,most orioles are [MASK].,nocturnal,solitary,white,territorial,black,orioles,gray,shy,terrestrial,brown
+,,,,,,,,,,,
+shack,most shacks are [MASK].,abandoned,small,empty,closed,wooden,vacant,temporary,old,permanent,deserted
+,,,,,,,,,,,
+woodpecker,most woodpeckers are [MASK].,nocturnal,solitary,territorial,terrestrial,shy,silent,migratory,small,social,green
+,,,,,,,,,,,
+pen,most pens are [MASK].,plastic,used,black,portable,automatic,small,expensive,electric,empty,free
+,,,,,,,,,,,
+basement,most basements are [MASK].,underground,residential,covered,flat,concrete,vaulted,open,subterranean,dry,full
+,,,,,,,,,,,
+radish,most radishes are [MASK].,white,yellow,green,black,red,edible,purple,sweet,blue,pink
+,,,,,,,,,,,
+lion,most lions are [MASK].,nocturnal,male,tame,white,female,solitary,blind,aggressive,black,silent
+,,,,,,,,,,,
+boots,most boots are [MASK].,leather,comfortable,black,uncomfortable,soft,brown,worn,heavy,expensive,not
+,,,,,,,,,,,
+crowbar,most crowbars are [MASK].,portable,used,homemade,illegal,sharp,lightweight,plastic,small,heavy,adjustable
+,,,,,,,,,,,
+dress,most dresses are [MASK].,white,black,expensive,pretty,blue,casual,red,plain,simple,green
+,,,,,,,,,,,
+bison,most bison are [MASK].,nocturnal,horned,polled,female,white,male,tame,vegetarian,large,small
+,,,,,,,,,,,
+dish,most dishes are [MASK].,vegetarian,fried,seafood,homemade,meat,spicy,delicious,traditional,pork,sweet
+,,,,,,,,,,,
+rocker,most rockers are [MASK].,white,portable,black,homemade,green,electric,red,closed,blue,older
+,,,,,,,,,,,
+fridge,most fridges are [MASK].,empty,small,old,full,electric,locked,closed,automated,large,portable
+,,,,,,,,,,,
+zucchini,most zucchinis are [MASK].,white,green,yellow,black,red,sweet,edible,fresh,delicious,fried
+,,,,,,,,,,,
+violin,most violins are [MASK].,bowed,electric,wooden,used,acoustic,homemade,plastic,white,hollow,tuned
+,,,,,,,,,,,
+squid,most squids are [MASK].,nocturnal,predators,small,predatory,solitary,large,parasitic,edible,peaceful,smaller
+,,,,,,,,,,,
+turtle,most turtles are [MASK].,green,nocturnal,small,large,amphibious,poisonous,aquatic,edible,smaller,terrestrial
+,,,,,,,,,,,
+willow,most willows are [MASK].,deciduous,evergreen,edible,poisonous,hardy,perennial,hollow,green,small,toxic
+,,,,,,,,,,,
+rooster,most roosters are [MASK].,black,white,polled,male,red,female,brown,vegetarian,gray,horned
+,,,,,,,,,,,
+plate,most plates are [MASK].,black,flat,rectangular,white,blue,silver,painted,plain,green,circular
+,,,,,,,,,,,
+housefly,most houseflies are [MASK].,nocturnal,predatory,solitary,parasitic,females,harmless,predators,female,black,social
+,,,,,,,,,,,
+prune,most prunes are [MASK].,edible,green,white,poisonous,yellow,black,red,sweet,bitter,fresh
+,,,,,,,,,,,
+parka,most parkas are [MASK].,white,black,blue,green,red,worn,yellow,optional,grey,brown
+,,,,,,,,,,,
+stick,most sticks are [MASK].,wooden,hollow,sharp,edible,black,used,green,flat,short,plastic
+,,,,,,,,,,,
+tape,most tapes are [MASK].,rare,identical,blank,homemade,analog,lost,digital,old,expensive,available
+,,,,,,,,,,,
+mouse,most mice are [MASK].,nocturnal,solitary,vegetarian,blind,harmless,sterile,male,small,female,white
+,,,,,,,,,,,
+raspberry,most raspberries are [MASK].,edible,poisonous,white,black,yellow,green,toxic,red,sweet,bitter
+,,,,,,,,,,,
+projector,most projectors are [MASK].,portable,digital,handheld,electronic,automatic,manual,analog,electric,plastic,automated
+,,,,,,,,,,,
+slingshot,most slingshots are [MASK].,inaccurate,accurate,explosive,handheld,short,ineffective,portable,automatic,small,deadly
+,,,,,,,,,,,
+grasshopper,most grasshoppers are [MASK].,nocturnal,terrestrial,solitary,predatory,parasitic,aquatic,small,mimic,green,winged
+,,,,,,,,,,,
+cockroach,most cockroaches are [MASK].,nocturnal,poisonous,solitary,harmless,edible,parasitic,terrestrial,small,vegetarian,predatory
+,,,,,,,,,,,
+gun,most guns are [MASK].,automatic,useless,obsolete,heavy,small,old,loaded,empty,illegal,cheap
+,,,,,,,,,,,
+cushion,most cushions are [MASK].,soft,edible,flat,plastic,artificial,used,green,adjustable,leather,white
+,,,,,,,,,,,
+oak,most oaks are [MASK].,deciduous,evergreen,barren,tall,white,dead,rare,small,oak,large
+,,,,,,,,,,,
+strainer,most strainers are [MASK].,portable,adjustable,automatic,plastic,hollow,flexible,closed,flat,used,manual
+,,,,,,,,,,,
+mixer,most mixers are [MASK].,portable,electric,similar,used,homemade,plastic,dry,inexpensive,automatic,available
+,,,,,,,,,,,
+jeans,most jeans are [MASK].,black,tight,worn,blue,ripped,comfortable,not,white,expensive,torn
+,,,,,,,,,,,
+bed,most beds are [MASK].,empty,wooden,covered,single,made,unused,open,comfortable,bare,bunk
+,,,,,,,,,,,
+truck,most trucks are [MASK].,trucks,heavy,smaller,unmarked,small,electric,light,amphibious,trailers,articulated
+,,,,,,,,,,,
+bullet,most bullets are [MASK].,silver,poisonous,useless,plastic,spent,empty,heavy,explosive,lethal,hollow
+,,,,,,,,,,,
+iguana,most iguanas are [MASK].,nocturnal,amphibious,solitary,green,terrestrial,white,small,edible,poisonous,aquatic
+,,,,,,,,,,,
+stone,most stones are [MASK].,hollow,granite,black,smooth,large,flat,grey,small,broken,dry
+,,,,,,,,,,,
+beaver,most beavers are [MASK].,nocturnal,migratory,solitary,vegetarian,small,large,smaller,larger,shy,white
+,,,,,,,,,,,
+nectarine,most nectarines are [MASK].,edible,nectar,poisonous,green,toxic,white,bisexual,similar,nocturnal,yellow
+,,,,,,,,,,,
+table,most tables are [MASK].,empty,covered,small,occupied,full,closed,wooden,large,bare,round
+,,,,,,,,,,,
+carrot,most carrots are [MASK].,green,edible,poisonous,white,yellow,black,red,eaten,vegetarian,bitter
+,,,,,,,,,,,
+cigar,most cigars are [MASK].,black,white,dry,homemade,smoked,brown,stale,green,expensive,red
+,,,,,,,,,,,
+escalator,most escalators are [MASK].,underground,closed,free,covered,accessible,automatic,elevated,enclosed,overhead,automated
+,,,,,,,,,,,
+cello,most cellos are [MASK].,bowed,electric,acoustic,hollow,homemade,white,wooden,used,plastic,tuned
+,,,,,,,,,,,
+lobster,most lobsters are [MASK].,edible,poisonous,nocturnal,green,predatory,parasitic,vegetarian,white,toxic,aquatic
+,,,,,,,,,,,
+clock,most clocks are [MASK].,analog,accurate,automatic,mechanical,digital,electronic,analogue,quartz,automated,portable
+,,,,,,,,,,,
+pin,most pins are [MASK].,flat,plastic,black,round,adjustable,missing,threaded,hollow,silver,wooden
+,,,,,,,,,,,
+microwave,most microwaves are [MASK].,portable,microwave,passive,inexpensive,expensive,electric,faster,analog,small,smaller
+,,,,,,,,,,,
+stereo,most stereos are [MASK].,portable,analog,electric,silent,expensive,digital,inexpensive,electronic,similar,acoustic
+,,,,,,,,,,,
+python,most pythons are [MASK].,free,portable,modular,flexible,static,programmers,functional,binary,silent,unrelated
+,,,,,,,,,,,
+scooter,most scooters are [MASK].,electric,motorized,lightweight,portable,small,smaller,amphibious,wheeled,wheels,manual
+,,,,,,,,,,,
+toaster,most toasters are [MASK].,electric,flat,automatic,plastic,portable,used,electrical,aluminum,older,similar
+,,,,,,,,,,,
+coconut,most coconuts are [MASK].,edible,green,poisonous,eaten,white,black,yellow,toxic,fresh,red
+,,,,,,,,,,,
+helicopter,most helicopters are [MASK].,unmanned,amphibious,military,small,unarmed,smaller,homemade,helicopters,tracked,autonomous
+,,,,,,,,,,,
+board,most boards are [MASK].,flat,wooden,closed,black,white,blank,green,covered,open,portable
+,,,,,,,,,,,
+sandpaper,most sandpapers are [MASK].,durable,white,sticky,dry,black,flexible,brittle,plastic,sharp,hard
+,,,,,,,,,,,
+cedar,most cedars are [MASK].,deciduous,evergreen,barren,rare,white,hollow,edible,dead,black,tall
+,,,,,,,,,,,
+gloves,most gloves are [MASK].,plastic,optional,white,leather,black,rubber,used,worn,lightweight,metal
+,,,,,,,,,,,
+thimble,most thimbles are [MASK].,edible,green,white,black,small,poisonous,yellow,red,smaller,hollow
+,,,,,,,,,,,
+rock,most rocks are [MASK].,hard,smooth,black,volcanic,soft,granite,sedimentary,flat,white,solid
+,,,,,,,,,,,
+chair,most chairs are [MASK].,empty,occupied,comfortable,uncomfortable,wooden,taken,used,broken,leather,full
+,,,,,,,,,,,
+trout,most trouts are [MASK].,nocturnal,small,common,brown,edible,black,brook,rare,white,migratory
+,,,,,,,,,,,
+beans,most beans are [MASK].,green,edible,black,roasted,eaten,white,yellow,red,dried,exported
+,,,,,,,,,,,
+cantaloupe,most cantaloupes are [MASK].,vegetarian,edible,green,white,fried,black,homemade,dry,roasted,spicy
+,,,,,,,,,,,
+grater,most graters are [MASK].,plastic,hollow,portable,flat,wooden,metal,small,homemade,black,cylindrical
+,,,,,,,,,,,
+coyote,most coyotes are [MASK].,nocturnal,aggressive,tame,harmless,solitary,territorial,shy,silent,vegetarian,male
+,,,,,,,,,,,
+banner,most banners are [MASK].,red,white,black,green,yellow,painted,blue,missing,old,gone
+,,,,,,,,,,,
+emu,most emus are [MASK].,white,yellow,blue,green,red,unmarked,black,older,electric,articulated
+,,,,,,,,,,,
+cabin,most cabins are [MASK].,closed,wooden,open,accessible,private,rented,covered,furnished,small,cabins
+,,,,,,,,,,,
+eggplant,most eggplants are [MASK].,edible,green,white,poisonous,yellow,sterile,toxic,vegetarian,aquatic,perennial
+,,,,,,,,,,,
+skirt,most skirts are [MASK].,short,shorter,long,longer,black,white,flared,optional,loose,tight
+,,,,,,,,,,,
+hyena,most hyenas are [MASK].,nocturnal,solitary,white,male,shy,vegetarian,female,gray,blind,males
+,,,,,,,,,,,
+kite,most kites are [MASK].,homemade,electric,powered,small,lightweight,portable,smaller,wooden,heavy,motorized
+,,,,,,,,,,,
+bench,most benches are [MASK].,wooden,covered,benches,concrete,plastic,empty,wood,temporary,metal,portable
+,,,,,,,,,,,
+hamster,most hamsters are [MASK].,nocturnal,solitary,small,blind,vegetarian,male,shy,harmless,female,white
+,,,,,,,,,,,
+crayon,most crayons are [MASK].,black,white,green,yellow,red,colored,blue,edible,plastic,brown
+,,,,,,,,,,,
+pan,most pans are [MASK].,hollow,wooden,flat,black,plastic,metal,portable,aluminum,cylindrical,aluminium
+,,,,,,,,,,,
+walnut,most walnuts are [MASK].,edible,black,green,white,poisonous,eaten,red,roasted,brown,yellow
+,,,,,,,,,,,
+hammer,most hammers are [MASK].,hollow,wooden,lightweight,steel,heavy,metal,small,portable,curved,used
+,,,,,,,,,,,
+van,most vans are [MASK].,white,unmarked,black,yellow,blue,older,red,smaller,used,green
+,,,,,,,,,,,
+leotards,most leotards are [MASK].,white,black,green,short,flexible,yellow,blue,edible,small,flat
+,,,,,,,,,,,
+wagon,most wagons are [MASK].,wooden,older,smaller,covered,larger,white,rare,longer,small,similar
+,,,,,,,,,,,
+hoe,most hoes are [MASK].,white,black,male,female,women,green,males,portable,small,homemade
+,,,,,,,,,,,
+crocodile,most crocodiles are [MASK].,nocturnal,large,harmless,smaller,poisonous,small,amphibious,larger,aquatic,vegetarian
+,,,,,,,,,,,
+bridge,most bridges are [MASK].,covered,wooden,concrete,suspension,arch,closed,permanent,listed,arched,pedestrian
+,,,,,,,,,,,
+keyboard,most keyboards are [MASK].,analog,manual,similar,portable,identical,compatible,standard,midi,keyboards,small
+,,,,,,,,,,,
+earmuffs,most earmuffs are [MASK].,plastic,black,white,metal,leather,used,optional,worn,closed,missing
+,,,,,,,,,,,
+harpsichord,most harpsichords are [MASK].,manual,pedal,baroque,mechanical,playable,portable,smaller,rare,electric,antique
+,,,,,,,,,,,
+harp,most harps are [MASK].,bowed,plucked,acoustic,wooden,homemade,hollow,electric,tubular,small,tuned
+,,,,,,,,,,,
+brick,most bricks are [MASK].,red,yellow,white,brick,black,concrete,hollow,glazed,bricks,adobe
+,,,,,,,,,,,
+turnip,most turnips are [MASK].,edible,green,white,yellow,poisonous,black,red,hardy,wild,dry
+,,,,,,,,,,,
+hatchet,most hatchets are [MASK].,wooden,hollow,small,used,sharp,edible,large,smaller,homemade,portable
+,,,,,,,,,,,
+pig,most pigs are [MASK].,polled,white,vegetarian,black,domestic,horned,male,exported,female,meat
+,,,,,,,,,,,
+harpoon,most harpoons are [MASK].,hollow,bladed,smaller,small,lightweight,short,wooden,sharp,curved,longer
+,,,,,,,,,,,
+eagle,most eagles are [MASK].,nocturnal,white,black,female,male,solitary,gray,brown,silent,migratory
+,,,,,,,,,,,
+sweater,most sweaters are [MASK].,wool,green,white,black,lightweight,comfortable,blue,brown,red,soft
+,,,,,,,,,,,
+bathtub,most bathtubs are [MASK].,portable,plastic,large,small,smaller,porcelain,closed,empty,larger,heated
+,,,,,,,,,,,
+pepper,most pepper are [MASK].,black,edible,yellow,bitter,green,spicy,poisonous,white,red,dried
+,,,,,,,,,,,
+bureau,most bureaux are [MASK].,closed,small,private,free,bilingual,open,independent,female,male,staffed
+,,,,,,,,,,,
+fork,most forks are [MASK].,sharp,used,small,short,curved,flat,plastic,adjustable,broken,hollow
+,,,,,,,,,,,
+mirror,most mirrors are [MASK].,opaque,flat,expensive,plastic,black,transparent,round,curved,portable,adjustable
+,,,,,,,,,,,
+mole,most moles are [MASK].,white,black,small,brown,yellow,nocturnal,large,red,smaller,male
+,,,,,,,,,,,
+rocket,most rockets are [MASK].,smaller,small,homemade,unmanned,mobile,rockets,portable,hollow,nuclear,larger
+,,,,,,,,,,,
+cheetah,most cheetahs are [MASK].,nocturnal,solitary,male,white,males,vegetarian,female,small,tame,smaller
+,,,,,,,,,,,
+cage,most cages are [MASK].,empty,open,closed,locked,wooden,large,small,portable,used,full
+,,,,,,,,,,,
+medal,most medals are [MASK].,unofficial,gold,bronze,silver,official,retired,honorary,awarded,contested,white
+,,,,,,,,,,,
+wheel,most wheels are [MASK].,steel,wooden,hollow,metal,small,iron,flat,plastic,large,smaller
+,,,,,,,,,,,
+typewriter,most typewriters are [MASK].,manual,obsolete,older,mechanical,portable,electrical,automatic,inexpensive,electric,analog
+,,,,,,,,,,,
+toad,most toads are [MASK].,nocturnal,poisonous,small,aquatic,harmless,terrestrial,smaller,large,edible,amphibious
+,,,,,,,,,,,
+avocado,most avocados are [MASK].,edible,green,black,white,yellow,poisonous,vegetarian,red,orange,dry
+,,,,,,,,,,,
+car,most cars are [MASK].,electric,older,used,small,green,white,black,blue,red,yellow
+,,,,,,,,,,,
+curtains,most curtains are [MASK].,closed,drawn,open,white,gone,black,red,blue,green,shut
+,,,,,,,,,,,
+walrus,most walrus are [MASK].,nocturnal,white,vegetarian,solitary,migratory,polled,black,shy,gray,male
+,,,,,,,,,,,
+garlic,most garlics are [MASK].,edible,poisonous,bitter,green,yellow,black,white,toxic,aromatic,spicy
+,,,,,,,,,,,
+pie,most pies are [MASK].,baked,fried,vegetarian,white,homemade,sweet,similar,meat,green,boiled
+,,,,,,,,,,,
+bookcase,most bookcases are [MASK].,closed,empty,open,wooden,oak,small,bare,metal,locked,tall
+,,,,,,,,,,,
+lamp,most lamps are [MASK].,electric,fluorescent,black,portable,red,green,lit,yellow,gas,white
+,,,,,,,,,,,
+sofa,most sofas are [MASK].,leather,comfortable,white,green,red,beige,black,uncomfortable,blue,used
+,,,,,,,,,,,
+robin,most robins are [MASK].,white,nocturnal,black,solitary,green,brown,territorial,blue,shy,female
+,,,,,,,,,,,
+bagpipe,most bagpipes are [MASK].,bowed,homemade,plucked,wooden,used,tuned,acoustic,smaller,strung,small
+,,,,,,,,,,,
+wall,most walls are [MASK].,brick,bare,white,glass,concrete,stone,solid,plastered,blank,painted
+,,,,,,,,,,,
+raccoon,most raccoons are [MASK].,nocturnal,solitary,white,harmless,vegetarian,poisonous,male,blind,silent,female
+,,,,,,,,,,,
+bolts,most bolts are [MASK].,hollow,heavy,threaded,wooden,flat,locked,steel,solid,used,missing
+,,,,,,,,,,,
+skyscraper,most skyscrapers are [MASK].,residential,tall,taller,underground,glass,older,concrete,modern,green,newer
+,,,,,,,,,,,
+biscuit,most biscuits are [MASK].,vegetarian,edible,sweet,dry,green,fried,white,homemade,bitter,stale
+,,,,,,,,,,,
+ship,most ships are [MASK].,smaller,small,large,obsolete,fast,larger,slow,older,unarmed,decommissioned
+,,,,,,,,,,,
+tricycle,most tricycles are [MASK].,rigid,amphibious,electric,articulated,motorized,powered,bicycles,wheels,motorcycles,wheeled
+,,,,,,,,,,,
+salmon,most salmon are [MASK].,edible,white,black,caught,wild,vegetarian,green,yellow,small,grey
+,,,,,,,,,,,
+candle,most candles are [MASK].,lit,black,white,red,yellow,scented,used,melted,blue,green
+,,,,,,,,,,,
+lamb,most lambs are [MASK].,white,polled,black,vegetarian,horned,brown,red,milk,meat,beef
+,,,,,,,,,,,
+screwdriver,most screwdrivers are [MASK].,threaded,used,flexible,plastic,hollow,metal,adjustable,portable,obsolete,lightweight
+,,,,,,,,,,,
+surfboard,most surfboards are [MASK].,aluminum,lightweight,plastic,homemade,folding,aluminium,portable,steel,wooden,adjustable
+,,,,,,,,,,,
+radio,most radios are [MASK].,portable,digital,free,fm,expensive,amateur,handheld,amateurs,homemade,analog
+,,,,,,,,,,,
+buggy,most buggies are [MASK].,amphibious,electric,smaller,small,homemade,lightweight,tracked,motorized,portable,larger
+,,,,,,,,,,,
+blouse,most blouses are [MASK].,white,blue,black,red,green,yellow,pink,silk,plain,casual
+,,,,,,,,,,,
+pelican,most pelicans are [MASK].,white,nocturnal,large,black,small,solitary,smaller,larger,amphibious,male
+,,,,,,,,,,,
+canary,most canaries are [MASK].,white,migratory,black,vegetarian,nocturnal,bilingual,fishermen,green,tropical,small
+,,,,,,,,,,,
+robe,most robes are [MASK].,black,white,red,green,blue,brown,worn,yellow,silk,grey
+,,,,,,,,,,,
+drapes,most drapes are [MASK].,closed,white,black,red,green,blue,open,heavy,gone,hung
+,,,,,,,,,,,
+camisole,most camisoles are [MASK].,white,optional,black,short,lace,elastic,loose,silk,long,transparent
+,,,,,,,,,,,
+jet,most jets are [MASK].,small,smaller,fast,slow,faster,larger,large,amphibious,short,noisy
+,,,,,,,,,,,
+penguin,most penguins are [MASK].,nocturnal,solitary,migratory,white,shy,territorial,vegetarian,male,predators,terrestrial
+,,,,,,,,,,,
+pear,most pears are [MASK].,edible,white,green,poisonous,yellow,black,red,sterile,purple,small
+,,,,,,,,,,,
+spoon,most spoons are [MASK].,plastic,wooden,hollow,used,small,metal,flat,silver,edible,empty
+,,,,,,,,,,,
+tent,most tents are [MASK].,seasonal,covered,permanent,open,portable,brown,underground,green,round,temporary
+,,,,,,,,,,,
+bedroom,most bedrooms are [MASK].,empty,small,furnished,upstairs,occupied,large,smaller,open,rented,bare
+,,,,,,,,,,,
+pliers,most pliers are [MASK].,sharp,used,useless,plastic,manual,expensive,small,heavy,short,metal
+,,,,,,,,,,,
+alligator,most alligators are [MASK].,nocturnal,harmless,poisonous,smaller,edible,small,large,aquatic,larger,amphibious
+,,,,,,,,,,,
+crane,most cranes are [MASK].,nocturnal,white,migratory,black,solitary,large,small,larger,vegetarian,smaller
+,,,,,,,,,,,
+church,most churches are [MASK].,catholic,small,evangelical,wooden,old,protestant,orthodox,abandoned,smaller,older
+,,,,,,,,,,,
+partridge,most partridges are [MASK].,nocturnal,edible,black,white,small,green,vegetarian,polled,smaller,terrestrial
+,,,,,,,,,,,
+elevator,most elevators are [MASK].,underground,closed,electric,covered,free,private,accessible,manual,automated,automatic
+,,,,,,,,,,,
+wrench,most wrenches are [MASK].,adjustable,plastic,threaded,used,heavy,hollow,steel,lightweight,sharp,flat
+,,,,,,,,,,,
+sword,most swords are [MASK].,short,sharp,wooden,curved,long,metal,bladed,small,steel,longer
+,,,,,,,,,,,
+groundhog,most groundhogs are [MASK].,nocturnal,solitary,vegetarian,black,white,terrestrial,large,small,smaller,larger
+,,,,,,,,,,,
+ostrich,most ostriches are [MASK].,white,black,polled,nocturnal,horned,brown,small,male,gray,large
+,,,,,,,,,,,
+chain,most chains are [MASK].,short,flexible,long,broken,longer,rigid,heavy,straight,flat,thin
+,,,,,,,,,,,
+ball,most balls are [MASK].,spherical,flat,black,round,hollow,wooden,small,white,green,large
+,,,,,,,,,,,
+bull,most bulls are [MASK].,white,polled,black,female,male,horned,tame,large,bald,brown
+,,,,,,,,,,,
+jeep,most jeeps are [MASK].,smaller,small,older,electric,unmarked,used,red,black,fast,amphibious
+,,,,,,,,,,,
+horse,most horses are [MASK].,polled,white,black,horned,small,lame,bred,grey,gray,chestnut
+,,,,,,,,,,,
+clarinet,most clarinets are [MASK].,bowed,homemade,electric,tuned,used,plucked,brass,manual,acoustic,bass
+,,,,,,,,,,,
+bag,most bags are [MASK].,empty,small,plastic,heavy,full,dry,filled,large,packed,smaller
+,,,,,,,,,,,
+spider,most spiders are [MASK].,nocturnal,solitary,small,predatory,green,poisonous,large,predators,edible,terrestrial
+,,,,,,,,,,,
+pillow,most pillows are [MASK].,soft,comfortable,used,flat,adjustable,green,plastic,white,uncomfortable,leather
+,,,,,,,,,,,
+raven,most ravens are [MASK].,nocturnal,solitary,white,territorial,black,male,shy,female,silent,tame
+,,,,,,,,,,,
+submarine,most submarines are [MASK].,smaller,small,fast,nuclear,amphibious,obsolete,larger,large,unarmed,submarines
+,,,,,,,,,,,
+spatula,most spatulas are [MASK].,sharp,flat,hollow,used,small,curved,edible,plastic,metal,bladed
+,,,,,,,,,,,
+beets,most beets are [MASK].,green,edible,white,yellow,black,sweet,poisonous,red,dry,roasted
+,,,,,,,,,,,
+tiger,most tigers are [MASK].,nocturnal,white,tame,female,male,shy,solitary,black,harmless,small
+,,,,,,,,,,,
+vine,most vines are [MASK].,edible,poisonous,woody,perennial,green,sterile,white,hardy,climbing,toxic
+,,,,,,,,,,,
+starling,most starlings are [MASK].,small,white,male,shy,stupid,female,peaceful,blind,lazy,quiet
+,,,,,,,,,,,
+tortoise,most tortoises are [MASK].,nocturnal,small,smaller,poisonous,large,solitary,terrestrial,black,green,edible
+,,,,,,,,,,,
+sledgehammer,most sledgehammers are [MASK].,homemade,metal,portable,plastic,wooden,explosive,heavy,lightweight,used,bladed
+,,,,,,,,,,,
+freezer,most freezers are [MASK].,automated,closed,portable,automatic,open,sealed,electric,empty,manual,locked
+,,,,,,,,,,,
+magazine,most magazines are [MASK].,free,bilingual,online,english,monthly,small,available,french,published,popular
+,,,,,,,,,,,
+skis,most skis are [MASK].,plastic,lightweight,optional,used,homemade,adjustable,folding,wooden,synthetic,hollow
+,,,,,,,,,,,
+urn,most urns are [MASK].,hollow,empty,rectangular,decorated,circular,small,smaller,large,flat,white
+,,,,,,,,,,,
+trumpet,most trumpets are [MASK].,blown,brass,used,hollow,bowed,black,small,closed,homemade,tuned
+,,,,,,,,,,,
+zebra,most zebras are [MASK].,white,nocturnal,polled,black,vegetarian,gray,horned,male,solitary,female
+,,,,,,,,,,,
+shed,most sheds are [MASK].,open,covered,wooden,closed,brick,enclosed,small,roofed,gabled,modern
+,,,,,,,,,,,
+wasp,most wasps are [MASK].,nocturnal,solitary,parasitic,predatory,territorial,queens,social,female,colonial,sterile
+,,,,,,,,,,,
+swimsuit,most swimsuits are [MASK].,optional,lightweight,elastic,white,comfortable,casual,black,plastic,expensive,legal
+,,,,,,,,,,,
+chisel,most chisels are [MASK].,hollow,sharp,small,curved,flat,steel,metal,wooden,plastic,used
+,,,,,,,,,,,
+toy,most toys are [MASK].,plastic,homemade,portable,wooden,expensive,small,inexpensive,rare,stuffed,paper
+,,,,,,,,,,,
+bluejay,most bluejays are [MASK].,nocturnal,white,solitary,black,territorial,shy,brown,female,migratory,male
+,,,,,,,,,,,
+anchor,most anchors are [MASK].,wooden,steel,portable,plastic,aluminum,metal,fixed,flat,lightweight,hollow
+,,,,,,,,,,,
+shawl,most shawls are [MASK].,white,black,woven,silk,green,embroidered,wool,blue,cotton,homemade
+,,,,,,,,,,,
+elephant,most elephants are [MASK].,nocturnal,white,tame,male,vegetarian,large,black,female,small,solitary
+,,,,,,,,,,,
+pants,most pants are [MASK].,black,loose,tight,white,blue,not,worn,short,torn,leather
+,,,,,,,,,,,
+sandals,most sandals are [MASK].,leather,black,white,plastic,wooden,flat,brown,worn,comfortable,optional
+,,,,,,,,,,,
+bouquet,most bouquets are [MASK].,seasonal,white,yellow,red,floral,artificial,pink,similar,sweet,colorful
+,,,,,,,,,,,
+skateboard,most skateboards are [MASK].,plastic,homemade,portable,aluminum,wooden,black,lightweight,electric,metal,folding
+,,,,,,,,,,,
+dishwasher,most dishwashers are [MASK].,automated,manual,automatic,electric,portable,electrical,used,mechanical,small,homemade
+,,,,,,,,,,,
+calf,most calves are [MASK].,female,white,polled,male,females,males,born,black,vegetarian,horned
+,,,,,,,,,,,
+closet,most closets are [MASK].,empty,closed,locked,small,open,bare,dark,large,tiny,old
+,,,,,,,,,,,
+ashtray,most ashtrays are [MASK].,portable,plastic,empty,small,hollow,used,electric,metal,cylindrical,aluminum
+,,,,,,,,,,,
+plug,most plugs are [MASK].,plastic,flexible,threaded,electrical,portable,permanent,electric,aluminum,solid,ceramic
+,,,,,,,,,,,
+baton,most batons are [MASK].,wooden,used,portable,bladed,short,plastic,electric,sharp,metal,explosive
+,,,,,,,,,,,
+guppy,most guppies are [MASK].,white,male,black,vegetarian,males,female,green,nocturnal,blue,shy
+,,,,,,,,,,,
+house,most houses are [MASK].,detached,small,older,rented,residential,large,inhabited,smaller,white,brick
+,,,,,,,,,,,
+knife,most knives are [MASK].,sharp,small,short,curved,long,dull,thin,bladed,longer,plastic
+,,,,,,,,,,,
+saxophone,most saxophones are [MASK].,electric,bowed,homemade,tuned,acoustic,blown,soprano,discontinued,used,smaller
+,,,,,,,,,,,
+marble,most marbles are [MASK].,black,white,blue,green,red,hollow,pink,rare,yellow,flat
+,,,,,,,,,,,
+falcon,most falcons are [MASK].,nocturnal,black,smaller,male,white,female,large,small,larger,tame
+,,,,,,,,,,,
+sled,most sleds are [MASK].,portable,motorized,wheeled,lightweight,powered,tracked,amphibious,electric,wooden,towed
+,,,,,,,,,,,
+jar,most jars are [MASK].,empty,hollow,open,sealed,filled,small,large,glass,broken,black
+,,,,,,,,,,,
+peas,most peas are [MASK].,edible,green,poisonous,white,yellow,black,toxic,red,dry,vegetarian
+,,,,,,,,,,,
+tongs,most tongs are [MASK].,hollow,wooden,flat,curved,small,metal,ornamental,used,decorative,sharp
+,,,,,,,,,,,
+trousers,most trousers are [MASK].,black,white,short,blue,long,brown,loose,worn,green,tight
+,,,,,,,,,,,
+basket,most baskets are [MASK].,woven,small,wooden,decorated,white,large,homemade,plastic,portable,covered
+,,,,,,,,,,,
+cauliflower,most cauliflowers are [MASK].,edible,poisonous,bisexual,yellow,perennial,green,white,toxic,sterile,annual
+,,,,,,,,,,,
+platypus,most platypuses are [MASK].,nocturnal,terrestrial,small,solitary,large,vegetarian,smaller,blind,amphibious,shy
+,,,,,,,,,,,
+thermometer,most thermometers are [MASK].,portable,electronic,accurate,automatic,adjustable,analog,electric,digital,magnetic,mechanical
+,,,,,,,,,,,
+drain,most drains are [MASK].,underground,open,paved,private,dry,concrete,small,public,covered,natural
+,,,,,,,,,,,
+bucket,most buckets are [MASK].,empty,full,filled,used,plastic,small,large,open,wooden,dry
+,,,,,,,,,,,
+oven,most ovens are [MASK].,portable,electric,automated,automatic,manual,electrical,gas,closed,microwave,modern
+,,,,,,,,,,,
+racquet,most racquets are [MASK].,hardwood,wooden,plastic,synthetic,portable,metal,rubber,used,flat,hollow
+,,,,,,,,,,,
+crossbow,most crossbows are [MASK].,obsolete,wooden,used,small,smaller,portable,automatic,homemade,fixed,heavy
+,,,,,,,,,,,
+giraffe,most giraffes are [MASK].,polled,white,nocturnal,vegetarian,male,black,solitary,female,males,horned
+,,,,,,,,,,,
+harmonica,most harmonicas are [MASK].,homemade,acoustic,bowed,electric,plucked,tuned,used,strung,portable,wooden
+,,,,,,,,,,,
+mackerel,most mackerel are [MASK].,edible,black,white,poisonous,small,nocturnal,smaller,larger,vegetarian,yellow
+,,,,,,,,,,,
+garage,most garages are [MASK].,underground,small,closed,private,covered,large,open,commercial,rented,modern
+,,,,,,,,,,,
+pigeon,most pigeons are [MASK].,white,black,male,nocturnal,female,small,tame,common,brown,vegetarian
+,,,,,,,,,,,
+bungalow,most bungalows are [MASK].,older,rented,newer,old,bungalow,small,detached,residential,white,smaller
+,,,,,,,,,,,
+coin,most coins are [MASK].,rare,silver,gold,commemorative,black,small,copper,scarce,green,bronze
+,,,,,,,,,,,
+door,most doors are [MASK].,closed,locked,open,shut,wooden,unlocked,bolted,sealed,black,small
+,,,,,,,,,,,
+dove,most doves are [MASK].,white,black,nocturnal,solitary,blue,green,brown,female,grey,male
+,,,,,,,,,,,
+certificate,most certificates are [MASK].,blank,unsigned,valid,fake,identical,invalid,issued,expired,signed,rare
+,,,,,,,,,,,
+cranberry,most cranberries are [MASK].,edible,poisonous,white,black,yellow,green,red,sour,wild,toxic
+,,,,,,,,,,,
+tomahawk,most tomahawks are [MASK].,amphibious,unarmed,armed,smaller,obsolete,powered,mounted,larger,silent,lightweight
+,,,,,,,,,,,
+tray,most trays are [MASK].,empty,plastic,covered,flat,small,wooden,portable,metal,heavy,silver
+,,,,,,,,,,,
+mat,most mats are [MASK].,woven,flat,lightweight,green,portable,flexible,bamboo,white,edible,artificial
+,,,,,,,,,,,
+toilet,most toilets are [MASK].,public,covered,accessible,private,underground,flush,disabled,shared,closed,open
+,,,,,,,,,,,
+comb,most combs are [MASK].,adjustable,hollow,curved,metal,wooden,threaded,flexible,small,simple,conical
+,,,,,,,,,,,
+bazooka,most bazookas are [MASK].,homemade,obsolete,automatic,short,lightweight,portable,handheld,wooden,plastic,small
+,,,,,,,,,,,
+bracelet,most bracelets are [MASK].,plastic,metal,expensive,leather,gold,silver,thin,adjustable,white,small
+,,,,,,,,,,,
+stool,most stools are [MASK].,wooden,adjustable,portable,used,metal,empty,plastic,flat,white,electric
+,,,,,,,,,,,
+faucet,most faucets are [MASK].,electric,automatic,plastic,portable,adjustable,metal,closed,hot,electrical,covered
+,,,,,,,,,,,
+cake,most cakes are [MASK].,fried,white,baked,homemade,sweet,vegetarian,edible,green,chocolate,black
+,,,,,,,,,,,
+doorknob,most doorknobs are [MASK].,metal,plastic,locked,wooden,brass,steel,iron,old,rusty,missing
+,,,,,,,,,,,
+catfish,most catfish are [MASK].,nocturnal,small,edible,vegetarian,green,smaller,predatory,harmless,blind,large
+,,,,,,,,,,,
+hook,most hooks are [MASK].,sharp,small,hooked,edible,curved,hollow,flexible,short,flat,large
+,,,,,,,,,,,
+whistle,most whistles are [MASK].,homemade,blown,acoustic,hollow,loud,closed,metallic,musical,used,sharp
+,,,,,,,,,,,
+lantern,most lanterns are [MASK].,lit,red,electric,black,green,white,portable,yellow,closed,blue
+,,,,,,,,,,,
+duck,most ducks are [MASK].,white,black,common,migratory,small,nocturnal,female,brown,male,green
+,,,,,,,,,,,
+skillet,most skillets are [MASK].,portable,plastic,adjustable,handheld,small,available,homemade,wooden,rare,used
+,,,,,,,,,,,
+shelves,most shelves are [MASK].,empty,bare,open,closed,wooden,full,covered,locked,oak,old
+,,,,,,,,,,,
+screws,most screws are [MASK].,threaded,flexible,hollow,plastic,metal,flat,adjustable,used,common,steel
+,,,,,,,,,,,
+flamingo,most flamingos are [MASK].,white,black,nocturnal,edible,green,poisonous,yellow,red,brown,female
+,,,,,,,,,,,
+drum,most drums are [MASK].,homemade,wooden,percussion,acoustic,bowed,tuned,small,black,smaller,used
+,,,,,,,,,,,
+otter,most otters are [MASK].,nocturnal,small,large,amphibious,smaller,solitary,shy,vegetarian,aquatic,migratory
+,,,,,,,,,,,
+frog,most frogs are [MASK].,nocturnal,terrestrial,poisonous,aquatic,small,common,green,harmless,edible,brown
+,,,,,,,,,,,
+envelope,most envelopes are [MASK].,sealed,white,black,plastic,flat,brown,transparent,green,red,rectangular
+,,,,,,,,,,,
+kettle,most kettles are [MASK].,wooden,black,closed,hollow,smaller,large,empty,larger,white,used
+,,,,,,,,,,,
+finch,most finches are [MASK].,nocturnal,solitary,territorial,shy,terrestrial,small,migratory,silent,smaller,large
+,,,,,,,,,,,
+broom,most brooms are [MASK].,portable,used,homemade,wooden,hollow,curved,heavy,adjustable,small,short
+,,,,,,,,,,,
+canoe,most canoes are [MASK].,small,wooden,amphibious,smaller,powered,larger,homemade,motorized,used,fast
+,,,,,,,,,,,
+hawk,most hawks are [MASK].,nocturnal,solitary,white,territorial,black,silent,smaller,large,tame,small
+,,,,,,,,,,,
+whale,most whales are [MASK].,large,small,white,larger,smaller,solitary,male,gray,migratory,female
+,,,,,,,,,,,
+goat,most goats are [MASK].,polled,vegetarian,horned,domestic,feral,white,goat,nocturnal,pastures,goats
+,,,,,,,,,,,
+sparrow,most sparrows are [MASK].,nocturnal,solitary,shy,black,territorial,migratory,white,silent,terrestrial,small
+,,,,,,,,,,,
+slippers,most slippers are [MASK].,comfortable,uncomfortable,plastic,soft,black,white,leather,worn,used,wooden
+,,,,,,,,,,,
+pony,most ponies are [MASK].,white,polled,black,male,rare,small,tame,gray,brown,lame
+,,,,,,,,,,,
+chapel,most chapels are [MASK].,small,smaller,ruined,wooden,rectangular,baroque,covered,octagonal,underground,older
+,,,,,,,,,,,
+mug,most mugs are [MASK].,black,plastic,empty,white,ceramic,porcelain,blue,wooden,used,metal
+,,,,,,,,,,,
+cart,most carts are [MASK].,empty,used,wooden,small,covered,heavy,old,smaller,motorized,portable
+,,,,,,,,,,,
+cod,most cod are [MASK].,edible,white,vegetarian,black,caught,smoked,fried,small,yellow,green
+,,,,,,,,,,,
+trailer,most trailers are [MASK].,trailers,portable,amphibious,mobile,used,electric,white,trucks,tractors,large
+,,,,,,,,,,,
+cork,most corks are [MASK].,white,edible,dry,cork,black,solid,plastic,hollow,soft,strong
+,,,,,,,,,,,
+moose,most mooses are [MASK].,nocturnal,white,smaller,large,gray,female,small,black,larger,polled
+,,,,,,,,,,,
+helmet,most helmets are [MASK].,plastic,black,optional,white,leather,metal,homemade,lightweight,adjustable,red
+,,,,,,,,,,,
+level,most levels are [MASK].,free,optional,limited,easy,restricted,available,open,advanced,higher,identical
+,,,,,,,,,,,
+bike,most bikes are [MASK].,electric,small,used,homemade,green,motorized,black,old,rented,smaller
+,,,,,,,,,,,
+doll,most dolls are [MASK].,plastic,white,wooden,black,small,stuffed,homemade,metal,female,blue
+,,,,,,,,,,,
+tripod,most tripods are [MASK].,small,hollow,flexible,short,mobile,portable,smaller,rigid,lightweight,wooden
+,,,,,,,,,,,
+fan,most fans are [MASK].,catholic,female,women,muslim,white,religious,loyal,black,male,disappointed

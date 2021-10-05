@@ -5,10 +5,10 @@ import sklearn
 from sklearn.metrics import cohen_kappa_score
 from agreement import returnValues
 
-fileMar = open(sys.argv[1], 'r')
+fileA1 = open(sys.argv[1], 'r')
 fileA2 = open(sys.argv[2], 'r')
 
-scoresA1 = returnValues(fileMar)
+scoresA1 = returnValues(fileA1)
 scoresA2 = returnValues(fileA2)
 
 # @10

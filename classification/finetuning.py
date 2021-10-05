@@ -1,8 +1,6 @@
 '''
 Copied and adapted from an example script in https://github.com/huggingface/
 (not available anymore)
-
-#### TODO provide addone data and/or path
 '''
 import os
 import argparse
@@ -225,7 +223,7 @@ class McRaeDataset(Dataset):
         limit=1
         for instance in data:
             an = (instance.noun, instance.adjective)
-            for sentence in rep_sentences[an][:limit]: #### TODO there is only one sentence so I can get rid of this loop
+            for sentence in rep_sentences[an][:limit]: 
                 if "bert" in self.model and self.model != "bert-bytoken":
                     tokenized_sequence = (tokenizer.tokenize(" ".join(sentence['sentence1'])), tokenizer.tokenize(" ".join(sentence['sentence2'])))                    
                     seq1 = tokenizer.convert_tokens_to_ids(tokenized_sequence[0])
@@ -315,7 +313,7 @@ class AddOneDataset(Dataset):
         def __init__(self, subset, tokenizer, model="bert", maxlen=256, comparison="noun_noun"):
                 self.comparison = comparison
 
-                data = pickle.load(open("add_one.labels_and_positions." + subset + ".pkl", "rb")) # subset is one of ["train", "test","dev"] ### TODO clean paths
+                data = pickle.load(open("add_one.labels_and_positions." + subset + ".pkl", "rb")) # subset is one of ["train", "test","dev"] 
                 # tokenize data
                 self.labels = []
                 input_ids = []

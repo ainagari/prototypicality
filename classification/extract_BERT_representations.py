@@ -1,13 +1,9 @@
-#### TODO try to run on slurm
-
 import pdb
 from transformers import BertTokenizer, BertConfig, BertModel
 import torch
 import numpy as np
 import pickle
 import argparse
-
-
 
 
 def aggregate_reps(reps_list):

@@ -11,11 +11,15 @@ To run the embedding-based classification experiments (Section 5.2) with BERT em
 `python extract_BERT_representations.py` 
 
 By default, `bert-base-uncased` is used. You can specify the name or path of another model with the flag `--model_name_or_path`.
-They will be saved as a .pkl file called "HVD_BERT_representations.pkl".
+They will be saved as a .pkl file called "HVD_BERT_representations.pkl". You can also extract representations for BERT (ISO) by using the flag --bert_iso. They will be saved in a file called "HVD_BERT-ISO_representations.pkl".
 
 Once representations have been extracted, run:
 
 `python cv_classif_mcrae.py --vector_type bert --path_to_vectors HVD_BERT_representations.pkl`
+
+or, for BERT-ISO:
+
+`python cv_classif_mcrae.py --vector_type bert-iso --path_to_vectors HVD_BERT-ISO_representations.pkl`
 
 Results of the best configuration will be printed on screen and the full results and predictions will be saved into `CVresults/` as .pkl files.
 

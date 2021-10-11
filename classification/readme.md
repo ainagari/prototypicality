@@ -17,7 +17,7 @@ Once representations have been extracted, run:
 
 `python cv_classif_mcrae.py --vector_type bert --path_to_vectors HVD_BERT_representations.pkl`
 
-or, for BERT-ISO:
+or, for BERT (ISO):
 
 `python cv_classif_mcrae.py --vector_type bert-iso --path_to_vectors HVD_BERT-ISO_representations.pkl`
 

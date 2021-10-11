@@ -126,6 +126,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name_or_path", default="bert-base-uncased", type=str)
+    parser.add_argument("--bert_iso", action="store_true")
     args = parser.parse_args()
     toplayer = 13
     maxlen = 512
@@ -135,7 +136,12 @@ if __name__ == "__main__":
     torch.manual_seed(0)
     device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
-    dsname = "HVD_sentences.pkl"
+    if args.bert_iso:
+        dsname = "HVD_sentences_iso.pkl"
+        out_fn = "HVD_BERT-ISO_representations.pkl"
+    else:
+        dsname = "HVD_sentences.pkl"
+        out_fn = "HVD_BERT_representations.pkl"
     HVD_sentences = pickle.load(open(dsname, "rb"))
 
     tokenized_sentences, infos = load_dataset(HVD_sentences,maxlen=maxlen)
@@ -171,5 +177,5 @@ if __name__ == "__main__":
                 new_data[(noun, adjective)]["reps_adj2"][laynum] = aggregate_reps(reps_by_type_adj[infotup][laynum]).cpu()
 
 
-    pickle.dump(new_data, open("HVD_BERT_representations.pkl", "wb"))
 
+    pickle.dump(new_data, open(out_fn, "wb"))

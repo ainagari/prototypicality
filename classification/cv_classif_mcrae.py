@@ -98,7 +98,7 @@ def get_arrays(data, composition_type, vector_type, vectors, ctxt_combi, layer):
             if vector_type in ["w2v", "fasttext"]:
                 vec1 = vectors.query(instance.noun)
                 vec2 = vectors.query(instance.adjective)
-            elif vector_type == "bert":
+            elif vector_type.startswith("bert"):
                 n1 = vectors[(instance.noun, instance.adjective)]["reps_noun1"][layer]
                 n2 = vectors[(instance.noun, instance.adjective)]["reps_noun2"][layer]
                 a2 = vectors[(instance.noun, instance.adjective)]["reps_adj2"][layer]
@@ -145,7 +145,7 @@ def load_vectors(vector_type, path_to_vectors):
         vectors = Magnitude(path_to_vectors, normalized=False)
     elif vector_type == "fasttext":
         vectors = Magnitude(path_to_vectors, normalized=False)
-    elif vector_type == "bert":
+    elif vector_type.startswith("bert"):
         vectors = pickle.load(open(path_to_vectors, "rb"))
 
     return vectors
@@ -312,7 +312,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--vector_type", type=str,
-                        help="can be 'w2v','fasttext' or 'bert'. It can also be 'majority' for the majority baseline or 'allproto' for the all proto baseline.")
+                        help="can be 'w2v','fasttext', 'bert' or 'bert-iso'. It can also be 'majority' for the majority baseline or 'allproto' for the all proto baseline.")
     parser.add_argument("--path_to_vectors", type=str)
     parser.add_argument("--baseline", default='', type=str, help="it can be 'majority' (for the majority baseline) or 'allproto' for the baseline that predicts everything to be prototypical")
 
@@ -322,7 +322,7 @@ if __name__ == '__main__':
         if args.vector_type in ["w2v", "fasttext"]:
             combis = [("n", "a")]
             layers = [0]
-        elif args.vector_type == "bert":
+        elif args.vector_type.startswith("bert"):
             combis = [("n1", "n2"), ("n2", "a2"), ("n1","a2")] # n1 is N_s_n, n2 is N_s_an, a2 is A_s_an
             layers = range(1, 13)
 

@@ -3,7 +3,7 @@
 
 This repository contains data and code for the paper:
 
-Marianna Apidianaki and Aina Garí Soler (2021). ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality. To appear in _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP_, Punta Cana, Dominican Republic and Online, November, 11.
+Marianna Apidianaki and Aina Garí Soler (2021). [ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality](https://aclanthology.org/2021.blackboxnlp-1.7/). In _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP_, Punta Cana, Dominican Republic, November, 11.
 
 The directories contain the scripts and data necessary to run:
 

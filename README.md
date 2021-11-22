@@ -17,13 +17,16 @@ Please visit a directory to find a more detailed readme.
 If you use the code in this repository, please cite our paper:
 ```
 @inproceedings{apidianaki-gari-soler-2021-dolphins,
-    title = "ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality",
+    title = "{ALL} Dolphins Are Intelligent and {SOME} Are Friendly: Probing {BERT} for Nouns{'} Semantic Properties and their Prototypicality",
     author = "Apidianaki, Marianna  and
-      Gar{\'i } Soler, Aina",
-    booktitle = "Proceedings of the 2021 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP",
+      Gar{\'\i} Soler, Aina",
+    booktitle = "Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP",
     month = nov,
     year = "2021",
     address = "Punta Cana, Dominican Republic",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.blackboxnlp-1.7",
+    pages = "79--94",   
 }
+
 ```

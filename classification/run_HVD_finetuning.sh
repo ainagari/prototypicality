@@ -3,9 +3,9 @@
 ####### BERT (TOK) NOUN-NOUN
 
 
-MODEL_TYPE = "bert-bytoken"
-MODEL_NAME = "bert-base-uncased"
-COMPARISON = "noun_noun"
+MODEL_TYPE="bert-bytoken"
+MODEL_NAME="bert-base-uncased"
+COMPARISON="noun_noun"
 
 : '
 
@@ -23,7 +23,7 @@ done
 
 ####### BERT (TOK) NOUN-ADJ
 
-COMPARISON = "noun_adj"
+COMPARISON="noun_adj"
 
 for TEST_FOLD in 1 2 3 4 5
 do
@@ -39,7 +39,7 @@ done
 
 ####### BERT (TOK) NOUN - ADJ+NOUN
 
-COMPARISON = "noun_adjnoun"
+COMPARISON="noun_adjnoun"
 
 : '
 for fold in 1 2 3 4 5
@@ -56,7 +56,7 @@ done
 
 ####### BERT (CLS) 
 
-MODEL_TYPE = "bert"
+MODEL_TYPE="bert"
 
 for fold in 1 2 3 4 5
 do

@@ -398,6 +398,10 @@ if __name__ == '__main__':
         for metric in ["accuracy", "f1","precision","recall"]:
             av_metric = np.average([results[k][metric] for k in results])
             print("average " + metric + ":", av_metric)
+            
+            
+    if not os.path.exists("CVresults/"):
+        os.makedirs("CVresults/")            
 
     model_type = args.baseline if args.baseline else args.vector_type
     pickle.dump(results, open("CVresults/results_"+ model_type+".pkl", "wb"))
